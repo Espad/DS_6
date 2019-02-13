@@ -117,3 +117,5 @@ data/task_2/reviews_dataset.pkl
 models/subtask2/model.json
 models/subtask2/history.json
 models/subtask2/model.h5
+*.jpg
+*.jpeg
