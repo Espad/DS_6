@@ -119,3 +119,6 @@ models/subtask2/history.json
 models/subtask2/model.h5
 *.jpg
 *.jpeg
+*.hdf5
+*.json
+*.h5
