@@ -122,3 +122,4 @@ models/subtask2/model.h5
 *.hdf5
 *.json
 *.h5
+*.npy
