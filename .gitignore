@@ -123,3 +123,6 @@ models/subtask2/model.h5
 *.json
 *.h5
 *.npy
+*.zip
+*.pickle
+*.model
